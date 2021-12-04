@@ -4,7 +4,7 @@ const routes = express.Router();
 
 const movieService = require('./services/movieService');
 
-routes.get('/a', (req, res) => {
+routes.get('/', (req, res) => {
     
 
 
