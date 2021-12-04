@@ -1,0 +1,4 @@
+node_modules
+movies/*.mp4
+movies/*.avi
+movies/*.mkv
